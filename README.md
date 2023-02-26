@@ -1,2 +1,1 @@
-# laboratory
-Self-Education Laboratory
+# appbrewery-python-bootcamp
