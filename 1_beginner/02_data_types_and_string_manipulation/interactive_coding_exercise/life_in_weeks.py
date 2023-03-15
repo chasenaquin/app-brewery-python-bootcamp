@@ -40,7 +40,7 @@ def life_time_breakdown():
 
 
 # Lifetime countdown clock. How much lifetime do you have remaining in years, months, weeks, days,
-# hours, minutes, seconds.
+# hours, minutes, seconds. (NOT DONE)
 def lifetime_remaining():
     from datetime import datetime
 
