@@ -1,15 +1,22 @@
 """
-Title: Printing Examples
-Author: Chase Naquin
-Date: March 13, 2023
+Title:          data_types_and_string_slicing
+Author:         Chase Naquin
+Date:           2023-03-14
 
-Course: Udemy: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-Section: 2
-Exercise: 21
-Type: Interactive Coding Exercise
+Course:         100 Days of Code: The Complete Python Pro Bootcamp for 2023
+Company:        App Brewery (On Udemy)
+Author:         Angela Yu
 
-Description: Adding a multiple-digit number together with its own slices.
+Type:           Interactive Coding Exercise
+Section:        Beginner
+Day:            02
+Exercise:       21
+
+Description:    Adding the slices of a  multi-digit number together.
+
+Competencies:   data types, string-slicing, range() function, lists, for loop, len() function, list operations, counter
 """
+
 
 # Get number input specifically as a string to allow for slicing.
 digit = str(input("What number do you want to calc the sum of digit slices: "))

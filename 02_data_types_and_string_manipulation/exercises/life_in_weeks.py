@@ -1,14 +1,20 @@
 """
-Title: Printing Examples
-Author: Chase Naquin
-Date: March 13, 2023
+Title:          life_in_weeks
+Author:         Chase Naquin
+Date:           2023-03-14
 
-Course: Udemy: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-Section: 2
-Exercise: 25
-Type: Interactive Coding Exercise
+Course:         100 Days of Code: The Complete Python Pro Bootcamp for 2023
+Company:        App Brewery (On Udemy)
+Author:         Angela Yu
 
-Description: Calculating remaining life in multiple time measurements.
+Type:           Interactive Coding Exercise
+Section:        Beginner
+Day:            02
+Exercise:       25
+
+Description:    Calculating life in a variety of time measurements, both from birth and current time.
+
+Competencies:   mathematical operators, datetime, converting dates, covernting times, printing datetime
 """
 
 
@@ -58,17 +64,3 @@ def lifetime_remaining():
 
 # life_time_breakdown()
 lifetime_remaining()
-
-# #App Brewery Code Example
-# # 🚨 Don't change the code below 👇
-# age = input("What is your current age? ")
-# # 🚨 Don't change the code above 👆
-#
-# #Write your code below this line 👇
-#
-# years = 90 - int(age)
-# months = round(years * 12)
-# weeks = round(years * 52)
-# days = round(years * 365)
-#
-# print(f"You have {days} days, {weeks} weeks, and {months} months left.")

@@ -1,14 +1,19 @@
 """
-Title: Printing Examples
-Author: Chase Naquin
-Date: March 14, 2023
+Title:          tip_calculator
+Author:         Chase Naquin
+Date:           2023-03-14
 
-Course: Udemy: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-Section: 2
-Exercise: 26
-Type: Daily Project
+Course:         100 Days of Code: The Complete Python Pro Bootcamp for 2023
+Company:        App Brewery (On Udemy)
+Author:         Angela Yu
 
-Description: Tip Calculator.
+Type:           Daily Project
+Section:        Beginner
+Day:            02
+Exercise:       26
+
+Description:    Calculating a total bill (base + tax + tip) and splitting between people.
+Competencies:   function arguments
 """
 
 
